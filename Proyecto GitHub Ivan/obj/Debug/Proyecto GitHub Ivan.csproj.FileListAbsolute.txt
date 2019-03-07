@@ -1,0 +1,9 @@
+C:\Users\ivan9\Source\Repos\dcmdawn\practicaED\Proyecto GitHub Ivan\bin\Debug\Proyecto GitHub Ivan.exe.config
+C:\Users\ivan9\Source\Repos\dcmdawn\practicaED\Proyecto GitHub Ivan\bin\Debug\Proyecto GitHub Ivan.exe
+C:\Users\ivan9\Source\Repos\dcmdawn\practicaED\Proyecto GitHub Ivan\bin\Debug\Proyecto GitHub Ivan.pdb
+C:\Users\ivan9\Source\Repos\dcmdawn\practicaED\Proyecto GitHub Ivan\obj\Debug\Proyecto GitHub Ivan.csprojAssemblyReference.cache
+C:\Users\ivan9\Source\Repos\dcmdawn\practicaED\Proyecto GitHub Ivan\obj\Debug\Proyecto_GitHub_Ivan.Properties.Resources.resources
+C:\Users\ivan9\Source\Repos\dcmdawn\practicaED\Proyecto GitHub Ivan\obj\Debug\Proyecto GitHub Ivan.csproj.GenerateResource.cache
+C:\Users\ivan9\Source\Repos\dcmdawn\practicaED\Proyecto GitHub Ivan\obj\Debug\Proyecto GitHub Ivan.csproj.CoreCompileInputs.cache
+C:\Users\ivan9\Source\Repos\dcmdawn\practicaED\Proyecto GitHub Ivan\obj\Debug\Proyecto GitHub Ivan.exe
+C:\Users\ivan9\Source\Repos\dcmdawn\practicaED\Proyecto GitHub Ivan\obj\Debug\Proyecto GitHub Ivan.pdb
